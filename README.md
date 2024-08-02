@@ -129,5 +129,14 @@ Daifugou is a game of strategy, observation, and a bit of luck.  Enjoy the game 
 
 ## How to play
 
+1. Download [Python](https://www.python.org/downloads/) on your device
+2. Download the main.exe file
+3. Play!
 
+## Feel free to play around with the code 
+**main_exe.py** is the version where AI player cards and moves are not displayed. <br>
+**main_playable.py** is the version where AI player cards and moves are displayed.
 
+## TODO 
+- **Use an Evolutionary Algorithm to find the best moves**
+- **Design better AI** Right now if Joker is in the AI's hand it will always be played to win the earliest hand but it should be used in for the best situation to win
